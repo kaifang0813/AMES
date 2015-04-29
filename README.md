@@ -34,4 +34,4 @@ The 8-Zone Test System consists of three basic parts:
 
 Example of GUI
 
-![gendata_gui.png](https://bytebucket.org/kdheepak89/eightbustestbed/raw/7e79ca9456026755f582c8d691a6ad8dcd179c09/img/gendata_gui.png)
+![gendata_gui.png](https://bytebucket.org/kdheepak89/eightbustestbed/raw/10fd8f11118fdb6cd62e8b1d9994bc1e7e6281ca/img/gendata_gui.png)
